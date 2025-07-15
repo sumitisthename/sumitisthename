@@ -51,15 +51,17 @@
 ### 📈 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=dark" height="160" />
 </p>
 
 ---
 
 ### 🔥 Contribution Graph
 
-[![Sumit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=github-light)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### 🔥 Contribution Graph
+
+[![Sumit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
