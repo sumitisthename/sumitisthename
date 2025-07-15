@@ -1,3 +1,5 @@
+![Banner](https://your-image-link.com/banner.png)
+
 <h1 align="center">Hi 👋, I'm Sumit De</h1>
 <h3 align="center">Aspiring Data Scientist | ML Engineer | Python Enthusiast | Tech Explorer</h3>
 
@@ -56,8 +58,6 @@
 </p>
 
 ---
-
-### 🔥 Contribution Graph
 
 ### 🔥 Contribution Graph
 
