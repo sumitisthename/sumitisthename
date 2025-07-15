@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Master’s in Information Systems – University of Texas at Arlington  
-- 👨‍💻 2+ years of experience applying Machine Learning to real-world problems  
+- 👨‍💻 4+ years of experience applying Machine Learning to real-world problems  
 - 💼 Projects in finance, motion detection, airline pricing, and recommender systems  
 - 🌱 Currently exploring: **LangChain**, **MLOps**, **AWS Data Engineering**
 
