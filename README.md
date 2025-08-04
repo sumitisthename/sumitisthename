@@ -3,48 +3,64 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumitisthename&label=Profile%20views&color=0e75b6&style=flat" alt="sumitisthename" />
+  <img src="https://img.shields.io/github/followers/sumitisthename?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sumitisthename?label=Stars&style=social" alt="GitHub stars" />
 </p>
+
+---
+
+### 🔥 GitHub Activity & Contribution Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitisthename&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=38bdae&point=70a5fd" width="100%" alt="Contribution Graph" />
+  
+</div>
+
+### 📊 Detailed GitHub Metrics
+
+<div align="center">
+  
+  <!-- GitHub Metrics Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitisthename&theme=tokyonight" alt="Profile Summary" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitisthename&theme=tokyonight&utcOffset=8" height="180" />
+  
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Master’s in Information Systems – University of Texas at Arlington  
-- 👨‍💻 4+ years of experience applying Machine Learning to real-world problems  
-- 💼 Projects in finance, motion detection, airline pricing, and recommender systems  
-- 🌱 Currently exploring: **LangGraph**, **LangChain**, **MLOps**, **AWS Data Engineering**
-
----
-
-### 📂 Featured Projects
-
-#### 💡 [Multi-Agent Financial Advisor](https://github.com/sumitisthename/Multi-Agent-FinancialAdvisor)
-> Reinforcement learning system for simulating agent-based investment strategies.
-
-#### 📊 [Stock Analysis](https://github.com/sumitisthename/Stock-Analysis)
-> Jupyter-powered EDA on historical market data with charts and insights.
-
-#### 🧠 [Motion Detector](https://github.com/sumitisthename/Motion-Detector)
-> Real-time motion detection using OpenCV.
-
-#### ✈️ [Airline Price Analysis](https://github.com/sumitisthename/Data-Analysis-of-Airline-Prices)
-> Exploratory data analysis to uncover airline pricing patterns.
-
-#### 🎬 [Movie Recommendation System](https://github.com/sumitisthename/Movie-Recommendation)
-> NLP-powered movie recommendation engine using collaborative filtering.
-
----
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+- 🎓 **Master's in Information Systems** – University of Texas at Arlington  
+- 👨‍💻 **4+ years of experience** applying Machine Learning to real-world problems  
+- 💼 **Project Portfolio**: Finance, Motion Detection, Airline Pricing, and Recommender Systems  
+- 🌱 **Currently exploring**: **LangGraph**, **LangChain**, **MLOps**, **AWS Data Engineering**
+- 🎯 **Goal**: To leverage data science for impactful business solutions
 
 ---
 
@@ -160,57 +176,6 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitisthename&label=Profile%20views&color=0e75b6&style=flat" alt="sumitisthename" />
-  <img src="https://img.shields.io/github/followers/sumitisthename?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sumitisthename?label=Stars&style=social" alt="GitHub stars" />
-</p>
-
----
-
-### 🔥 GitHub Activity & Contribution Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitisthename&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=38bdae&point=70a5fd" width="100%" alt="Contribution Graph" />
-  
-</div>
-
-### 📊 Detailed GitHub Metrics
-
-<div align="center">
-  
-  <!-- GitHub Metrics Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitisthename&theme=tokyonight" alt="Profile Summary" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitisthename&theme=tokyonight&utcOffset=8" height="180" />
-  
-</div>
 
 ### 🎯 Current Focus Areas
 
