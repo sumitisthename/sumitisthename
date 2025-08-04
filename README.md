@@ -1,57 +1,3 @@
-<h1 align="center">Hi I'm Sumit De</h1>
-<h3 align="center">Aspiring Data Scientist | ML Engineer | Python Enthusiast | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitisthename&label=Profile%20views&color=0e75b6&style=flat" alt="sumitisthename" />
-  <img src="https://img.shields.io/github/followers/sumitisthename?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sumitisthename?label=Stars&style=social" alt="GitHub stars" />
-</p>
-
----
-
-### 🔥 GitHub Activity & Contribution Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitisthename&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=38bdae&point=70a5fd" width="100%" alt="Contribution Graph" />
-  
-</div>
-
-### 📊 Detailed GitHub Metrics
-
-<div align="center">
-  
-  <!-- GitHub Metrics Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitisthename&theme=tokyonight" alt="Profile Summary" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitisthename&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitisthename&theme=tokyonight&utcOffset=8" height="180" />
-  
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -176,6 +122,60 @@
 </div>
 
 ---
+
+<h1 align="center">Hi I'm Sumit De</h1>
+<h3 align="center">Aspiring Data Scientist | ML Engineer | Python Enthusiast | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitisthename&label=Profile%20views&color=0e75b6&style=flat" alt="sumitisthename" />
+  <img src="https://img.shields.io/github/followers/sumitisthename?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sumitisthename?label=Stars&style=social" alt="GitHub stars" />
+</p>
+
+---
+
+### 🔥 GitHub Activity & Contribution Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitisthename&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitisthename&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitisthename&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitisthename&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=38bdae&point=70a5fd" width="100%" alt="Contribution Graph" />
+  
+</div>
+
+### 📊 Detailed GitHub Metrics
+
+<div align="center">
+  
+  <!-- GitHub Metrics Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitisthename&theme=tokyonight" alt="Profile Summary" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitisthename&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitisthename&theme=tokyonight&utcOffset=8" height="180" />
+  
+</div>
 
 ### 🎯 Current Focus Areas
 
