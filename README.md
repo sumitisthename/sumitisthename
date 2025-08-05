@@ -58,11 +58,9 @@
   
 </div>
 
+<!-- GitHub Streaks -->
 <div align="center">
-  
-  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=sumitisthename&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
 </div>
 
 <div align="center">
