@@ -21,8 +21,8 @@
 #### 💡 [Multi-Agent Financial Advisor](https://github.com/sumitisthename/Multi-Agent-FinancialAdvisor)
 > Reinforcement learning system for simulating agent-based investment strategies.
 
-#### 📊 [Stock Analysis](https://github.com/sumitisthename/Stock-Analysis)
-> Jupyter-powered EDA on historical market data with charts and insights.
+#### 📊 [MLOps](https://github.com/sumitisthename/ML_Projects.git)
+> Experiment tracking and workflow automation:MLflow, DagsHub, Airflow, DVC, and AWS
 
 #### 🧠 [Motion Detector](https://github.com/sumitisthename/Motion-Detector)
 > Real-time motion detection using OpenCV.
