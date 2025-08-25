@@ -13,6 +13,7 @@
 - 👨‍💻 4+ years of experience applying Machine Learning to real-world problems  
 - 💼 Projects in finance, motion detection, airline pricing, and recommender systems  
 - 🌱 Currently exploring: **LangGraph**, **LangChain**, **MLOps**, **AWS Data Engineering**
+- 📫 Reach me: sumit.d.1996@gmail.com
 
 ---
 
